@@ -5,3 +5,9 @@ plugins:
 
 title: Manas CyberSec Blog
 description: Ethical Hacking | Labs | Writeups
+
+header_pages:
+  - index.md
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/about.md
