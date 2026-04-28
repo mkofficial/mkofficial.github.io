@@ -7,9 +7,26 @@ title: Home
 
 Hi, I am Manas 👨‍💻
 
-This is my cybersecurity blog where I share:
-- 🔐 Ethical Hacking
-- 🐞 Vulnerability Testing
-- 🛠️ Tools like Nmap, Burp Suite
+🚀 I specialize in:
+- Web Application Security
+- Vulnerability Assessment
+- Ethical Hacking Labs
 
-🚀 Stay tuned!
+---
+
+## 🔥 Latest Blogs
+
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+---
+
+## 🛠️ Tools I Use
+- Nmap  
+- Burp Suite  
+- Metasploit  
+
+---
+
+👉 Explore more in the Blog section!
