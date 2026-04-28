@@ -1,14 +1,13 @@
-title: "About Me"
+---
+title: "About"
 permalink: /about/
+---
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am a cybersecurity enthusiast focused on:
-- Web Security
 - Ethical Hacking
-- Vulnerability Assessment
+- Web Security
+- Penetration Testing
 
-I work on labs like:
-- Metasploitable2
-- DVWA
-- Burp Suite
+I document my learning through real-world labs.
